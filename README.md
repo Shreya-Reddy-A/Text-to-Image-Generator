@@ -1,4 +1,4 @@
-# Imagify: Text-to-Image Converter
+# Imagify: Text to Image Generator
 
 Imagify is an advanced web app that turns your text prompts into breathtaking images using cutting-edge AI. Harnessing the power of Hugging Face's Text-to-Image model, this tool transforms your descriptions into vibrant visuals. Featuring a modern, cyberpunk-inspired interface, Imagify combines style with functionality, offering a captivating way to bring your creative visions to life.
 ![Screenshot (315)](https://github.com/user-attachments/assets/8e2ed325-b6a5-44ef-bc72-f7d13693bbdb)
