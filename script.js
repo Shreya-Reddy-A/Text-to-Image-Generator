@@ -2,7 +2,7 @@ const inputTxt = document.getElementById("input");
 const imageContainer = document.getElementById("imageContainer");
 const button = document.getElementById("btn");
 const IMAGE_COUNT = 6;
-const token = "YOUR_API_KEY";
+const token = "your_huggingface_api_token_here";
 
 async function query(data) {
     const uniquePrompt = `${data.inputs} (seed: ${data.parameters.seed})`;
